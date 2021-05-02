@@ -1,6 +1,6 @@
 /* Tag selector */
 
-body {
+/* body {
   background-color: #eaf6f6;
 }
 
@@ -20,7 +20,30 @@ hr {
   width: 5%;
 }
 
-/* Class selector */
 .circular {
   border-radius: 100%;
+} */
+
+body {
+  margin: 0;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+}
+
+.middle-container {
+  background-color: red;
+  height: 200px;
+  width: 200px;
+}
+
+.bottom-container {
+  background-color: blue;
+  height: 200px;
+  width: 200px;
 }
