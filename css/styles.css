@@ -26,14 +26,23 @@ hr {
 
 body {
   margin: 0;
+  text-align: center;
 }
 
 h1 {
   margin-top: 0;
 }
 
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
 .top-container {
   background-color: #e4f9f5;
+  padding-top: 100px;
+  position: relative;
 }
 
 .middle-container {
@@ -46,4 +55,15 @@ h1 {
   background-color: blue;
   height: 200px;
   width: 200px;
+}
+
+.bottom-cloud {
+  bottom: 300px;
+  left: 300px;
+  position: absolute;
+
+}
+
+.under {
+  text-decoration: underline;
 }
