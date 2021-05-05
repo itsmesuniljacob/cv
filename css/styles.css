@@ -19,27 +19,34 @@ hr {
   border-width: 5px;
   width: 5%;
 }
-
+*/
 .circular {
   border-radius: 100%;
-} */
+}
 
 body {
+  font-family: 'Merriweather', serif;
+  font-size: 150%;
   margin: 0;
   text-align: center;
-  font-family: 'Merriweather', serif;
 }
 
 h1 {
-  margin-top: 0;
+  color: #66BFBF;
   font-family: 'Sacramento', cursive;
+  font-size: 4.625rem;
+  margin: 50px auto 0 auto;
 }
 
 h2 {
+  color: #66BFBF;
   font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
 }
 
 h3 {
+  color: #11999E;
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -53,18 +60,6 @@ h3 {
   background-color: #e4f9f5;
   padding-top: 100px;
   position: relative;
-}
-
-.middle-container {
-  background-color: red;
-  height: 200px;
-  width: 200px;
-}
-
-.bottom-container {
-  background-color: blue;
-  height: 200px;
-  width: 200px;
 }
 
 .bottom-cloud {
