@@ -31,7 +31,7 @@ hr {
 }
 
 .code-image {
-  border-radius: 50%;
+  border-radius: 10%;
   width: 25%;
   float: left;
   margin-right: 30px;
